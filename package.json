@@ -1,0 +1,15 @@
+{
+  "name": "smsservice",
+  "version": "1.0.0",
+  "description": "Methods for Lambda back end",
+  "main": "local_SendSingleSMS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.216.1",
+    "lambda-local": "^1.4.6"
+  }
+}
